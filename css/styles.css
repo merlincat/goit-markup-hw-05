@@ -454,7 +454,7 @@ img {
   font-size: 12px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.04m;
+  letter-spacing: 0.04em;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
 }
 
@@ -557,7 +557,7 @@ img {
   margin-bottom: 16px;
 }
 .form-field-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 .form-field-label {
   display: block;
