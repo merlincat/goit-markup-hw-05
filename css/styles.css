@@ -559,6 +559,9 @@ img {
 .form-field-wrapper {
   margin-bottom: 8px;
 }
+.form-field-wrapper-max {
+  margin-bottom: 16px;
+}
 .form-field-label {
   display: block;
   color: #8e8f99;
